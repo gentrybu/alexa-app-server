@@ -1,0 +1,6 @@
+{
+    "name": "G3 Alexa Server",
+    "description": "A basic app...",
+    "repository": "https://github.com/gentrybu/alexa-app-server/",
+    "success_url": "/",
+}
