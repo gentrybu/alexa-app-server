@@ -1,3 +1,9 @@
+# Deploy
+
+The easiest way to deploy this is to push the button:
+
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
 # alexa-app-server
 
 An Alexa App (Skill) Server module using Node.js and the [alexa-app](https://www.npmjs.com/package/alexa-app) module.
